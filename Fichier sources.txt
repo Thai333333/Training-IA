@@ -1,0 +1,5 @@
+Méthode d'apprentissage par exploration exploitation :
+https://skymme.com/cours/data-ia/apprentissage-par-renforcement/partie-2/06-arbitrez-entre-exploration-et-exploitation/?utm_source=chatgpt.com
+https://www.datacamp.com/fr/tutorial/reinforcement-learning-python-introduction
+https://www.datacamp.com/fr/tutorial/introduction-q-learning-beginner-tutorial?utm_source=chatgpt.com
+https://app.datacamp.com/fr/campus/courses/reinforcement-learning-with-gymnasium-in-python/introduction-to-reinforcement-learning?ex=2&skip_variants_modal=true
