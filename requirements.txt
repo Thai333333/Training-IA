@@ -2,3 +2,4 @@ numpy
 gymnasium
 ale-py
 Pillow
+matplotlib
